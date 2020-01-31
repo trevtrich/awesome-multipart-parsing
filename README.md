@@ -30,11 +30,12 @@ $ npm test
 ```
 
 ## The List
-[formidable](https://github.com/node-formidable/node-formidable) - created by
+* [formidable](https://github.com/node-formidable/node-formidable) - created by
 core node contributor
-[multiparty](https://github.com/pillarjs/multiparty) - doesn't seem to allow
+* [multiparty](https://github.com/pillarjs/multiparty) - doesn't seem to allow
 encoding selection per part
-[@hapi/pez](https://github.com/hapijs/pez) - seems pretty pinned to hapi pattern
+* [@hapi/pez](https://github.com/hapijs/pez) - seems pretty pinned to hapi
+pattern
 
 [license-link]: LICENSE
 [license-badge]: https://img.shields.io/github/license/trevtrich/awesome-multipart-parsing.svg
